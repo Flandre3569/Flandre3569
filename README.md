@@ -18,7 +18,16 @@ Here are some ideas to get you started:
 ![info](https://github-readme-stats.vercel.app/api/top-langs/?username=Flandre3569&layout=compact&show_icons=true&count_private=true&hide=prs&theme=cobalt)
 ![info](https://github-readme-stats.vercel.app/api?username=Flandre3569&show_icons=true&count_private=true&hide=prs&theme=cobalt)
 
-](https://www.javascript.com/)
+### Platform
+
+[![](https://img.shields.io/badge/Windows-Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/)
+[![](https://img.shields.io/badge/macOS-macOS-FF574D?style=flat-square&logo=macOS&logoColor=ffffff)](https://support.apple.com/zh-cn/macos)
+[![](https://img.shields.io/badge/CentOS-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org/)
+[![](https://img.shields.io/badge/Ubuntu-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+
+### Technology Stack
+
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://v3.cn.vuejs.org/)
 [![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)](https://react.docschina.org/)
