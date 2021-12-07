@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 a ✨ _special_ ✨ repository 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Flandre3569.Flandre3569)
+![follow](https://img.shields.io/github/followers/Flandre3569?label=Follow&style=social)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on SDAU
