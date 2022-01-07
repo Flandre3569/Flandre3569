@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on my friends
 - 🤔 I’m looking for help with algorithm
 - 💬 To contact me (WeChat):MxXuan3569
-- 📫 How to reach me: [博客](http://mingxuan3569.xyz)
+- 📫 How to reach me: [Might as well have some tea](http://mingxuan3569.xyz)
 - 🐱‍🏍 I also want to be a good coder
 - 😄 Pronouns: hope u like me
 - ⚡ Fun fact: coder lover family and friends(particular order)
