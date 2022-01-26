@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: hope u like me
 - ⚡ Fun fact: coder lover family and friends(particular order)
  
-
-![info](https://github-readme-stats.vercel.app/api/top-langs/?username=Flandre3569&layout=compact&show_icons=true&count_private=true&hide=prs&theme=cobalt)
 ![info](https://github-readme-stats.vercel.app/api?username=Flandre3569&show_icons=true&count_private=true&hide=prs&theme=cobalt)
 
 ### Platform
