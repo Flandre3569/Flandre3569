@@ -6,11 +6,11 @@ a ✨ _special_ ✨ repository
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on SDAU
-- 🌱 I’m currently learning JavaScript java C++ OS and framework
+- 🌱 I’m currently learning JavaScript go python OS and front-end framework
 - 👯 I’m looking to collaborate on my friends
 - 🤔 I’m looking for help with algorithm
 - 💬 To contact me (WeChat):MxXuan3569
-- 📫 How to reach me: [Might as well have some tea](http://mingxuan3569.xyz)
+- 📫 How to reach me: [Coisini](https://github.com/Flandre3569)
 - 🐱‍🏍 I also want to be a good coder
 - 😄 Pronouns: hope u like me
 - ⚡ Fun fact: coder lover family and friends(particular order)
