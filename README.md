@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Flandre3569.Flandre3569)
 
 
-- 🤔 I’m looking for help with algorithm
+- 🪐 博客地址: [coisini's blog](https://github.com/Flandre3569/blog/discussions)
 - 💬 To contact me (WeChat):MxXuan3569
 - 🐱‍🏍 Be a good coder
  
